@@ -8,7 +8,6 @@ It is perfect for exploring gardening tips, plant care, and quirky plant stories
 
 - **Responsive Design**: Optimized for various screen sizes using Tailwind CSS utility classes.
 - **Interactive Blog Cards**: Each post features a visually appealing card with hover effects.
-- **Subscription Form**: Visitors can subscribe to the blog's newsletter to stay updated.
 - **Modern Styling**: Utilizes Tailwind CSS for clean and modern design aesthetics.
 
 ## Technologies Used
